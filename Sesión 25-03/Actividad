@@ -1,0 +1,13 @@
+Estructuras de datos
+	arregos, listas, objetos
+Estructuras de control
+	if, ifelse, switch, for, while, do while
+Ejercicio POO:
+	Clase abstracta
+	Clase implementada
+	Interfase
+Ejercicio POO dónde apliqué una clase interfase, abstracta y una clase de implementación. Estructura recomendada
+package:
+	interfase->interfase
+	model->abs y implement
+	view->main
